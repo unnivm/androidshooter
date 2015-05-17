@@ -1,0 +1,1 @@
+This is a android clone for existing flash based 2d space game. This is under development
